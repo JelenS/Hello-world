@@ -1,2 +1,4 @@
 # Hello-world
-Thih is my small peace
+This is my little peace.
+
+Hi all!
